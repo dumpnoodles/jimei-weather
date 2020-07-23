@@ -1,0 +1,6 @@
+{
+  "PORT": xxxx,
+  "SERVER_URL": "http://127.0.0.1:xxxx",
+  "BACKGROUND_PATH": "static/bg",
+  "WEATHER_IMAGE_PATH": "static/icon"
+}

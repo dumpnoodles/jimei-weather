@@ -1,0 +1,11 @@
+{
+  "path": {
+    "functions": "./server/cloud-functions"
+  },
+  "proxy": "http://localhost:xxxx/",
+  "https_proxy": "",
+  "mpappid": "xxxxxxxxxxxxx",
+  "env": "xxxxxxxx",
+  "secretid": "xxxxxxxxxxxxx",
+  "secretkey": "xxxxxxxxxxxxxx"
+}
